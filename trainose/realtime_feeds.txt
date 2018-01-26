@@ -1,0 +1,3 @@
+url,trip_updates,alerts,vehicle_positions
+http://www.trainose.gr/transit/trip_updates,1,0,0
+http://www.trainose.gr/transit/alerts,0,1,0
