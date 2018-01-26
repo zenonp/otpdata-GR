@@ -28,4 +28,6 @@ at your own peril.
 All patches and new additions of data are own work of their 
 respective contributors under the [Open Data Commons Open Database 
 License](https://opendatacommons.org/licenses/odbl/1.0/) (ODbL). 
+Most - if not all - geographic data in the patches and new additions 
+are derived from [OpenStreetMap](http://osm.org).
 
