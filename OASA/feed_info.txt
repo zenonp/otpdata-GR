@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_version
+"Οργανισμός Αστικών Συγκοινωνιών ΟΑΣΑ - Αthens Urban Transport Organisation",http://www.oasa.gr,el,2016-12-23 10:01:40

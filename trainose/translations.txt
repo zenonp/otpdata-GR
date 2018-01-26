@@ -1,0 +1,235 @@
+trans_id,lang,translation
+Άγιος Βασίλειος,en,Agios Vassileios
+Αγγείαι,en,Aggeie
+Αγυά Πατρών,en,Agya of Patras
+Άδενδρο,en,Adendro
+Αθήνα,en,Athens
+Αγ. Θωμάς,en,Agios Thomas
+Αιγίνιο,en,Aiginio
+Ακρολίμνι,en,Akrolimni
+Αλαλκομεναί,en,Alalkomenai
+Αλεξανδρούπολη Λιμάνι,en,Alexandroupoli Port
+Αλεξάνδρεια,en,Alexandreia
+Αλίαρτος,en,Aliartos
+Αλέκσινατς,en,Aleksinac
+Αγ. Μαρίνα,en,Agia Marina
+Αμόριο,en,Amorio
+Αμύνταιο,en,Amyntaio
+Αμφίκλεια,en,Amfikleia
+Αγ. Ανδρέας,en,Agios Andreas
+Άνω Λεχώνια,en,Ano Lekhonia
+Αγ. Παντελεήμων,en,Agios Panteleimon
+Αρμένιο,en,Armenio
+Άρνισσα,en,Arnissa
+Αγ. Στέφανος,en,Agios Stefanos
+Αυλίδα,en,Avlida
+Αυλώνα,en,Avlona
+Αφίδναι,en,Afidnai
+Αχαρνές,en,Acharnes
+Βασιλική,en,Vassiliki
+Βελεστίνο,en,Velestino
+Βέννα,en,Venna
+Βέλικα Πλάνα,en,Velika Plana
+Βέροια,en,Veroia
+Βεύη,en,Vevi
+Νις,en,Nis
+Βόλος,en,Volos
+Βράνισκα Μπάνια,en,Vranjska Banja
+Βυρώνεια,en,Vyronia
+Γάζωρος,en,Gazoros
+Γαλλικός,en,Gallikos
+Γατζέα,en,Gatzea
+Γευγελή,en,Gevgelija
+Δαυλεία,en,Davleia
+Δεκέλεια,en,Dekelia
+Διακοφτό,en,Diakofto
+Διδυμότειχο,en,Didymoteichon
+Δίλοφος,en,Dilofos
+Δίκαια,en,Dikaia
+Δοϊράνη,en,Doirani
+Δομοκός,en,Domokos
+Δοξαράς,en,Doxaras
+Δράμα,en,Drama
+Έδεσσα,en,Edessa
+Ειδομένη,en,Idomeni
+Επισκοπή Νάουσας,en,Episkopi of Naoussa
+Θεσσαλονίκη,en,Thessaloniki
+Θήβα,en,Thiva
+Θούριο,en,Thourio
+Ίασμος,en,Iasmos
+Καβύλλη,en,Kavylli
+Καλαμπάκα,en,Kalambaka
+Καλάβρυτα,en,Kalavryta
+Καλίνδοια,en,Kallindia
+Καλοχώρι-Παντείχι,en,Kalochori-Pantichi
+Καρδίτσα,en,Karditsa
+Καστελόκαμπος,en,Kastelokampos
+Καστανούσσα,en,Kastanoussa
+Καστανέαι,en,Kastanee
+Κατερίνη,en,Katerini
+Κάτω Αχαρναί,en,Kato Acharnai
+Κερπίνη,en,Kerpini
+Κεφαλοχώρι Ημαθίας,en,Kefalochori Imathias
+Κηφισσός,en,Kifissos
+Κιλκίς,en,Kilkis
+Κίρκη,en,Kirki
+Κουλούρα,en,Kouloura
+Κομοτηνή,en,Komotini
+Κορνοφωλιά,en,Kornofolia
+Κορινός,en,Korinos
+Κουλάτα,en,Koulata
+Κούπριχα,en,Cuprija
+Κρανώνας,en,Kranonas
+Κυψέλη Λάρισσας,en,Kypseli (@Larissa)
+Λάβαρα,en,Lavara
+Λαγυνά,en,Lagina
+Λαμία,en,Lamia
+Λάποβο,en,Lapovo
+Λάρισα,en,Larissa
+Λειβαδειά,en,Levadia
+Λειανοκλάδι,en,Lianokladi
+Λεπτοκαρυά,en,Leptokarya
+Λέσκοβατς,en,Leskovac
+Λευκοθέα Αλιστράτης,en,Lefkothea Alistratis
+Λιανοβέργιον,en,Lianovergion
+Λεβαδειά Κερκίνης,en,Livadia Kerkinis
+Λιβέρα,en,Livera
+Λιλαία,en,Lilaia
+Λιτόχωρο,en,Litochoro
+Λουτρός,en,Loutros
+Μαγούλα Καρδίτσης,en,Magoula Karditsis
+Μανδράκι,en,Mandraki
+Μάνδρα,en,Mandra
+Μαράσια,en,Marasia
+Μεγάλη Βρύση,en,Megali Vrysi
+Μεζούρλο,en,Mezourlo
+Μελισσιάτικα,en,Melissiatika
+Μέση,en,Mesi Veroias
+Μεσονήσιον,en,Mesonision
+Μεγάλο Σπήλαιο,en,Megalo Spilaio
+Μεστή,en,Mesti
+Μεταλλικός,en,Metallikos
+Μηλιές,en,Milee
+Μλαντένοβατς,en,Mladenovac
+Μουριές,en,Mouries
+Βελιγράδι,en,Beograd
+Μπλαγκόεβγκραντ,en,Blagoevgrad
+Μπράλος,en,Bralos
+Νάουσα,en,Naoussa
+Ν. Βύσσα,en,N. Vissa
+Νεοχώριο,en,Neochorion
+Νέο Πετρίτσι,en,Neo Petritsi
+Μικροχελιδού,en,Microchelidou
+Νικηφόρος,en,Nikiforos
+Νέοι Πόροι,en,Neoi Poroi
+Νέα Φιλαδέλφεια Τούμπας,en,Nea Philadelphia Toumbas
+Ξάνθη,en,Xanthi
+Ξεχασμένη Ημαθίας,en,Xechasmeni of Imathia
+Ξινό Νερό,en,Xino Nero
+Οινόη,en,Inoi
+Οινόφυτα,en,Oinofyta
+Ολυμπία,en,Olympia
+Ομαλό Θράκης,en,Omalo Thrakis
+Ορεστιάδα,en,Orestiada
+Ορφανά,en,Orfana
+Αεροδρόμιο,en,Athens International Airport
+Άγιοι Θεόδωροι,en,Agioi Theodoroi N.
+Ρέντη,en,Renti (Agiou Ioanni Renti)
+Ρακόβιτσα,en,Rakovica
+Παλάνκα,en,Palanka
+Παλαιοφάρσαλος,en,Palaeofarsalos
+Άγιοι Ανάργυροι,en,Agioi Anarghiroi N.
+Άνω Λιόσια,en,Ano Liosia N.
+Παναχαϊκή,en,Panachaiki
+Παρανέστι,en,Paranesti
+Παρόρι,en,Parori
+Παράτσιν,en,Paracin
+Ασπρόπυργος,en,Aspropyrgos N.
+Πάτρα,en,Patra
+Δουκίσσης Πλακεντίας,en,Doukissis Plakentias
+Πεδινό,en,Pedino
+Πειραιάς,en,Piraeus
+Πέπλος,en,Peplos
+Πετραιά,en,Petraia
+Πετράδες,en,Petrades
+Ζευγολατειό Κορινθίας,en,Zegolateio Korinthias
+Ηράκλειο,en,Iraklio
+Κηφισίας,en,Kifisias
+Κιάτο,en,Kiato
+Κινέτα,en,Kineta
+Κόρινθος,en,Korinthos N.
+Κορωπί,en,Koropi
+Πλατάνια,en,Platania
+Λεύκα,en,Lefka
+Πλατύ,en,Platy
+Μαγούλα,en,Magoula
+Μέγαρα,en,Megara N.
+Μεταμόρφωση,en,Metamorfosi
+Νέα Πέραμος,en,Nea Peramos N.
+Νερατζίωτισσα,en,Neratziotissa
+Πολύανθος,en,Polyanthos
+Πολύσιτος,en,Polysitos
+Παιανία - Κάντζα,en,Peania - Kantza
+Παλλήνη,en,Pallini
+Πεντέλης,en,Pentelis
+Πραγγίον,en,Praggion
+Πρέσεβο,en,Presevo
+Προμαχώνας,en,Promachonas
+Ρουφ,en,Rouf
+Πύθιο Διδυμοτείχου,en,Pythion of Didymoteicho
+Σταθμός Πυθίου,en,Pythio Station
+Πύργος Ηλείας,en,Pyrgos Ilias
+Πύργος Βασιλίσσης,en,Pyrgos Vasilissis N.
+Ραψάνη,en,Rapsani
+Ρήγιο,en,Rigio
+Ρίο,en,Rio
+Ρίστοβατς,en,Ristovac
+Ροδόπολις,en,Rodopolis
+Ροδίτσα,en,Roditsa
+Σακκος,en,Sakkos
+Σαντάνσκι,en,Sandanski
+Σέρρες,en,Serres
+Σιδηρόκαστρο,en,Sidirokastro
+Σίνδος,en,Sindos
+Σίσεβατς,en,Cicevac
+Σιταριά,en,Sitaria
+ΣΚΑ (Κέντρο Αχαρναί),en,SKA (Rail center of Acharnes)
+Σκόπια,en,Skopje
+Σκοτούσσα,en,Skotoussa
+Σκύδρα,en,Skydra
+Σουφλι,en,Soufli
+Σοφάδες,en,Sofades
+Σόφια,en,Sofia
+Στάλατς,en,Stalac
+Σταυρούπολη Ξάνθης,en,Stavroupoli of Xanthi
+Στεφανοβίκειο,en,Stefanovikeio
+Στρυμώνας,en,Strymonas
+Στυλίδα,en,Stylida
+Συκορράχη,en,Sykorrachi
+Δήλεσι,en,Dilesi
+Σφενδάλη,en,Sfendali
+Σοφικό,en,Sofiko
+Ταμπάνοβτσι,en,Tabanovci
+Τανάγρα,en,Tanagra
+Γιαγκοντίνα,en,Jagodina
+Τιθορέα,en,Tithorea
+Τοξότες,en,Toxotes
+Τρίκαλα,en,Trikala
+Τρικλιά,en,Triklia
+Τυχερό,en,Tychero
+Υψηλάντης,en,Ypsilantis
+Φανάρι Καρδίτσας,en,Fanari Karditsas
+Φέρρες,en,Ferres
+Φλώρινα,en,Florina
+Φυλακτό,en,Fylakto
+Φωτολίβος,en,Fotolivos
+Χαιρώνεια,en,Cheronia
+Χαλκίδα,en,Chalkida
+Χειμώνιο,en,Xeimonio
+Χέρσος,en,Hersos
+Αγ. Γεώργιος (Αθήνα),en,Agios Georgios (Athens)
+Καλύβια Λαμίας,en,Kalyvia Lamias
+Παγκράτι Λαμίας,en,Pagkrati Lamias
+Ρεβένια Λαμίας,en,Revenia Lamias
+Σιδηροχώρι Σερρών,en,Sidirochori Serron
+Ζαχλωρίτικα,en,Zachloritika
