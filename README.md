@@ -18,8 +18,8 @@ refine the data, with or without their cooperation.
 ### License
 
 The [original Trainose data](http://www.trainose.gr/gtfs/) are 
-subject to their own license, which has not been published. [The 
-original OASA data](http://geodata.gov.gr/en/dataset/oasa) are 
+subject to their own license, which has not been published. The 
+[original OASA data](http://geodata.gov.gr/en/dataset/oasa) are 
 licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode). 
 The intention of Trainose appears to be to place the data in the 
 public domain, but that's only an assumption. You use that data 
