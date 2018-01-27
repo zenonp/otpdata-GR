@@ -17,17 +17,18 @@ refine the data, with or without their cooperation.
 
 ### License
 
-The [original Trainose data](http://www.trainose.gr/gtfs/) are 
+The [original OASA data](http://geodata.gov.gr/en/dataset/oasa) 
+are licensed under the 
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode). 
+The [original Trainose data](http://www.trainose.gr/gtfs/) are
 subject to their own license, which has not been published. The 
-[original OASA data](http://geodata.gov.gr/en/dataset/oasa) are 
-licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode). 
-The intention of Trainose appears to be to place the data in the 
+intention of Trainose appears to be to place the data in the 
 public domain, but that's only an assumption. You use that data 
 at your own peril. 
 
-All patches and new additions of data are own work of their 
-respective contributors under the [Open Data Commons Open Database 
-License](https://opendatacommons.org/licenses/odbl/1.0/) (ODbL). 
-Most - if not all - geographic data in the patches and new additions 
-are derived from [OpenStreetMap](http://osm.org).
+All patches and new additions of data are own work of their respective 
+contributors and are published under the [Open Data Commons Open Database 
+License](https://opendatacommons.org/licenses/odbl/1.0/) (ODbL). Most 
+- if not all - geographic data in the patches and new additions are 
+derived from [OpenStreetMap](http://osm.org).
 
